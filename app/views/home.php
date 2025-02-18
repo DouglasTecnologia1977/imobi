@@ -43,7 +43,7 @@
         <DIV CLASS="col-lg-3 col-xs-6">
             <DIV CLASS="small-box bg-red animated bounce">
                 <DIV CLASS="inner">
-                    <H4 class="text-substr"><STRONG>loires</STRONG></H4>
+                    <H4 class="text-substr"><STRONG>DRS</STRONG></H4>
                     <P>Informações sobre<BR> a empresa</P>
                 </DIV>
                 <DIV CLASS="icon">
