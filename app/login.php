@@ -6,7 +6,7 @@ require_once ($_SERVER['DOCUMENT_ROOT'].'/config/public_functions.php');
 <html>
 <head>
 <meta charset="utf-8">
-<title>loires LOGIN</title>
+<title>DRS LOGIN</title>
 <link href="/app/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/app/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/app/css/AdminLTE.min.css">
