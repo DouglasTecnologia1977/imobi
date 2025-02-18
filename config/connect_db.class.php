@@ -16,8 +16,8 @@ class connect_db
 	{
         
         //************************************************
-    	$this->user_DB = 'root';
-		$this->pass_DB = '';
+    	$this->user_DB = 'imobi';
+		$this->pass_DB = 'solo@imobi';
 		$this->data_DB = 'imobi';
 		$this->host_DB = 'localhost';
         /* Ativa as exceptions */
