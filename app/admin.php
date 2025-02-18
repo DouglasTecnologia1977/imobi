@@ -27,7 +27,7 @@ $return = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>loires:</title>
 <link href="favicon.png" rel="shortcut icon">
-<meta name="author" content="Laudir Bispo">
+<meta name="author" content="Douglas Rodrigues">
 <meta http-equiv="content-language" content="pt-br">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
 <link rel="stylesheet" href="/app/css/bootstrap.min.css">
@@ -427,7 +427,7 @@ $return = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
         <DIV CLASS="pull-right hidden-xs">
             <B>Version</B> 2.0.1
         </DIV>
-        <STRONG>Copyright <?php auto_copyright($startYear = 2016); ?> <a href="http://loires.com.br"> - Loires - Soluções Integradas</a>.</STRONG> Todos os direitos reservados.
+        <STRONG>Copyright <?php auto_copyright($startYear = 2016); ?> <a href="http://drs.tec.br"> - DRS - Soluções Tecnologicas</a>.</STRONG> Todos os direitos reservados.
     </FOOTER>
 
     <!-- Control Sidebar -->
