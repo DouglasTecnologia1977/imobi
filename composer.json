@@ -1,5 +1,5 @@
 {
-    "name": "laudirbispo/imobi",
+    "name": "douglas/imobi",
     "description": "Full PHP Real State Website ",
     "keywords": ["DDD","real state", "website", "full", "imobiliária", "corretor imobiliário"],
     "type": "library",
@@ -7,9 +7,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Laudir Bispo",
-            "email": "laudirbispo@outlook.com",
-            "homepage": "https://www.facebook.com/laudirbispo"
+            "name": "Douglas Rodrigues",
+            "email": "douglas@drs.tec.br",
+            "homepage": "https://drs.tec.br"
         }
     ],
     "require" : {
