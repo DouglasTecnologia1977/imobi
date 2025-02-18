@@ -9,9 +9,9 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/app/controls/adminFunctions.php');
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>loires:</title>
+<title>DRS:</title>
 <link href="/app/images/logo-loires-ico.png" favicon.png"" rel="shortcut icon">
-<meta name="author" content="Laudir Bispo">
+<meta name="author" content="Douglas Rodrigues">
 <meta http-equiv="content-language" content="pt-br">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
 <link rel="stylesheet" href="/app/css/bootstrap.min.css">
