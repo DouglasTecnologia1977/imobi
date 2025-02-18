@@ -19,9 +19,9 @@ $return = isset($_GET['return']) ? base64_decode($_GET['return']) : '/app/admin/
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>loires:</title>
+<title>DRS:</title>
 <link href="/app/images/logo-loires-ico.png"  rel="shortcut icon">
-<meta name="author" content="Laudir Bispo">
+<meta name="author" content="Douglas Rodrigues">
 <meta http-equiv="content-language" content="pt-br">
 <!-- Tell the browser to be responsive to screen width -->
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
@@ -79,7 +79,7 @@ $return = isset($_GET['return']) ? base64_decode($_GET['return']) : '/app/admin/
       Você pode continuar suas tarefas normalmente após nos informar sua senha!</small>
     </p>
   <div class="lockscreen-footer text-center">
-   <STRONG>Copyright &copy; 2016 <a href="http://grupositefacil.com.br">loires</a>.</STRONG> <br>Todos os direitos reservados.
+   <STRONG>Copyright &copy; 2016 <a href="http://drs.tec.br">DRS</a>.</STRONG> <br>Todos os direitos reservados.
   </div>
 </div>
 <!-- /.center -->
