@@ -25,7 +25,7 @@ $return = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>loires:</title>
+<title>DRS:</title>
 <link href="favicon.png" rel="shortcut icon">
 <meta name="author" content="Douglas Rodrigues">
 <meta http-equiv="content-language" content="pt-br">
@@ -383,7 +383,7 @@ $return = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
                 <?php endif; ?>           
                 
                 <LI CLASS="">
-                    <a href="http://ajudaesuporte.loires.com.br/" target="_blank"><div class="icons_sys" id="sprites-support"></div> <SPAN>AJUDA E SUPORTE</SPAN></a>
+                    <a href="http://suporte.drs.tec.br/" target="_blank"><div class="icons_sys" id="sprites-support"></div> <SPAN>AJUDA E SUPORTE</SPAN></a>
                 </LI>
 
             </UL>
